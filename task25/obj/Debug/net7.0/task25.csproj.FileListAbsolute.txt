@@ -1,0 +1,15 @@
+C:\Users\Софья\Desktop\24.01\task25\bin\Debug\net7.0\task25.exe
+C:\Users\Софья\Desktop\24.01\task25\bin\Debug\net7.0\task25.deps.json
+C:\Users\Софья\Desktop\24.01\task25\bin\Debug\net7.0\task25.runtimeconfig.json
+C:\Users\Софья\Desktop\24.01\task25\bin\Debug\net7.0\task25.dll
+C:\Users\Софья\Desktop\24.01\task25\bin\Debug\net7.0\task25.pdb
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.csproj.AssemblyReference.cache
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.AssemblyInfoInputs.cache
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.AssemblyInfo.cs
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.csproj.CoreCompileInputs.cache
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.dll
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\refint\task25.dll
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.pdb
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\task25.genruntimeconfig.cache
+C:\Users\Софья\Desktop\24.01\task25\obj\Debug\net7.0\ref\task25.dll
